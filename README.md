@@ -1,2 +1,2 @@
 # NPUST_Master
-work
+NPUST Master's degree work
